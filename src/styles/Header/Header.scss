@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+}
+.headerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #373741;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  margin-top: 30px;
+  margin-bottom: 80px;
+}
+.name {
+  text-align: center;
+  color: #e1d8cf;
+  font-size: 45px;
+}
+.profession {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+}

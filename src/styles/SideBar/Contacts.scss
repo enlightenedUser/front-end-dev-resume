@@ -1,0 +1,9 @@
+.contactsContainer {
+  width: 100%;
+}
+.contactLink {
+  color: rgb(9, 52, 122);
+  &:hover {
+    color: rgb(98, 98, 98);
+  }
+}
