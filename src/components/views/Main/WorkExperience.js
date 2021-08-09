@@ -21,6 +21,18 @@ const WorkExperience = () => (
         </p>
         <small className="small">March 2021 - June 2021</small>
       </li>
+      <li>
+        <h3>Customer support</h3>
+        <p>
+          Company:
+          <a rel="noreferrer" target="_blank" href="https://glovoapp.com/">
+            {" "}
+            Glovo
+          </a>
+        </p>
+        <p>Consult clients with technical and organizational problems</p>
+        <small className="small">July 2019 - October 2019</small>
+      </li>
     </ul>
   </div>
 );

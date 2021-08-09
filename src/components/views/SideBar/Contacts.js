@@ -4,6 +4,7 @@ const Contacts = () => (
   <div className="contactsContainer">
     <h2 className="subHeader">Contacts</h2>
     <ul>
+      <li>Kyiv</li>
       <li>
         <span>Tel: </span>
         <a className="contactLink" href="tel:+380504942472">
