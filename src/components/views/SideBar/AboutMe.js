@@ -19,7 +19,6 @@ const AboutMe = () => (
         <li>Webpack</li>
         <li>ParcelJs</li>
         <li>Bootstrap</li>
-        <li>CSS3</li>
         <li>Wordpress</li>
         <li>GIT</li>
         <li>PHP</li>

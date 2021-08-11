@@ -6,8 +6,8 @@ import Contacts from "./Contacts";
 const SideBar = () => (
   <div className="sidebarContainer">
     <img className="myPhoto" src={myPhoto} alt="myPhoto" />
-    <AboutMe />
     <Contacts />
+    <AboutMe />
   </div>
 );
 
