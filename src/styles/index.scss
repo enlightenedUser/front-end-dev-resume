@@ -14,5 +14,9 @@ img {
   height: auto;
 }
 a {
-  text-decoration: none;
+  text-decoration: underline;
+  color: #000;
+  &:hover{
+    color: #373741;
+  }
 }
