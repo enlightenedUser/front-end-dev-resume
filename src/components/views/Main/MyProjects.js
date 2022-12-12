@@ -10,6 +10,104 @@ const MyProjects = () => (
     <ul>
       <li className='projects-item'>
         <a
+            rel="noreferrer"
+            target="_blank"
+            href="https://app.nimbusplatform.io/"
+        >
+          app.nimbusplatform.io
+        </a>
+        <Tippy content={<span className='tooltip-text'>[team project, React, Solidity]</span>}>
+          <div className='tooltip'>
+            <img src={InfoIcon} alt='additional-info-img' className='additional-info-img'/>
+          </div>
+        </Tippy>
+      </li>
+      <li className='projects-item'>
+        <a
+            rel="noreferrer"
+            target="_blank"
+            href="https://nft-marketplace.ioalabs.com/"
+        >
+          nft-marketplace
+        </a>
+        <Tippy content={<span className='tooltip-text'>[team project, React, Solidity]</span>}>
+          <div className='tooltip'>
+            <img src={InfoIcon} alt='additional-info-img' className='additional-info-img'/>
+          </div>
+        </Tippy>
+      </li>
+      <li className='projects-item'>
+        <a
+            rel="noreferrer"
+            target="_blank"
+            href="https://land.nimbusplatform.io/"
+        >
+          land.nimbusplatform.io
+        </a>
+        <Tippy content={<span className='tooltip-text'>[team project, React, Solidity]</span>}>
+          <div className='tooltip'>
+            <img src={InfoIcon} alt='additional-info-img' className='additional-info-img'/>
+          </div>
+        </Tippy>
+      </li>
+      <li className='projects-item'>
+        <a
+            rel="noreferrer"
+            target="_blank"
+            href="https://jupiterexchange.com/"
+        >
+          jupiterexchange.com
+        </a>
+        <Tippy content={<span className='tooltip-text'>[team project, html, css, js]</span>}>
+          <div className='tooltip'>
+            <img src={InfoIcon} alt='additional-info-img' className='additional-info-img'/>
+          </div>
+        </Tippy>
+      </li>
+      <li className='projects-item'>
+        <a
+            rel="noreferrer"
+            target="_blank"
+            href="https://nimbusplatform.io/"
+        >
+          nimbusplatform
+        </a>
+        <Tippy content={<span className='tooltip-text'>[team project, html, js, css]</span>}>
+          <div className='tooltip'>
+            <img src={InfoIcon} alt='additional-info-img' className='additional-info-img'/>
+          </div>
+        </Tippy>
+      </li>
+      <li className='projects-item'>
+        <a
+            rel="noreferrer"
+            target="_blank"
+            href="https://leader.nimbusplatform.io/"
+        >
+          leader.nimbusplatform.io
+        </a>
+        <Tippy content={<span className='tooltip-text'>[team project, React, Solidity]</span>}>
+          <div className='tooltip'>
+            <img src={InfoIcon} alt='additional-info-img' className='additional-info-img'/>
+          </div>
+        </Tippy>
+      </li>
+      <li className='projects-item'>
+        <a
+            rel="noreferrer"
+            target="_blank"
+            href="https://goldenark.com/"
+        >
+          goldenark
+        </a>
+        <Tippy content={<span className='tooltip-text'>[team project, React, html, css, js]</span>}>
+          <div className='tooltip'>
+            <img src={InfoIcon} alt='additional-info-img' className='additional-info-img'/>
+          </div>
+        </Tippy>
+      </li>
+      <li className='projects-item'>
+        <a
           rel="noreferrer"
           target="_blank"
           href="https://pavelbulaienko.github.io/goit-react-hw-09-phonebook/"
