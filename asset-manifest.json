@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/front-end-dev-resume/static/css/main.109d7429.chunk.css",
+    "main.css": "/front-end-dev-resume/static/css/main.a55d28ff.chunk.css",
     "main.js": "/front-end-dev-resume/static/js/main.46f7c7c1.chunk.js",
     "main.js.map": "/front-end-dev-resume/static/js/main.46f7c7c1.chunk.js.map",
     "runtime-main.js": "/front-end-dev-resume/static/js/runtime-main.74df0f56.js",
@@ -8,14 +8,14 @@
     "static/js/2.5942b3b8.chunk.js": "/front-end-dev-resume/static/js/2.5942b3b8.chunk.js",
     "static/js/2.5942b3b8.chunk.js.map": "/front-end-dev-resume/static/js/2.5942b3b8.chunk.js.map",
     "index.html": "/front-end-dev-resume/index.html",
-    "static/css/main.109d7429.chunk.css.map": "/front-end-dev-resume/static/css/main.109d7429.chunk.css.map",
+    "static/css/main.a55d28ff.chunk.css.map": "/front-end-dev-resume/static/css/main.a55d28ff.chunk.css.map",
     "static/js/2.5942b3b8.chunk.js.LICENSE.txt": "/front-end-dev-resume/static/js/2.5942b3b8.chunk.js.LICENSE.txt",
     "static/media/myPhoto.ebdfbbdd.JPG": "/front-end-dev-resume/static/media/myPhoto.ebdfbbdd.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.74df0f56.js",
     "static/js/2.5942b3b8.chunk.js",
-    "static/css/main.109d7429.chunk.css",
+    "static/css/main.a55d28ff.chunk.css",
     "static/js/main.46f7c7c1.chunk.js"
   ]
 }
